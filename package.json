@@ -1,0 +1,24 @@
+{
+  "name": "modmail-by-the-brogamer",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Discord%20Bot-discord.js-9cf)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brogames85-star/modmail-by-the-brogamer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brogames85-star/modmail-by-the-brogamer/issues"
+  },
+  "homepage": "https://github.com/Brogames85-star/modmail-by-the-brogamer#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.18.2"
+  }
+}
